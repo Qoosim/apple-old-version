@@ -1,0 +1,13 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+#container {
+  background: url('https://archive.fo/UW4oR/c737ac2a39d31e8407c5d08a73daddc5ddcf5d3e.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  height: 500px;
+}
