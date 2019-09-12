@@ -27,8 +27,13 @@
 
 .f-outside {
   font: 11px 'Lucida Grande', 'Lucida Sans Unicode', Helvetica, Arial, Verdana, sans-serif;
-  color: #666;
+  color: #6e6e6e;
   margin: 25px 20px 100px 20px;
+}
+
+.f-outside a {
+  color: #0088cc;
+  text-decoration: none;
 }
 
 .f-inside {
@@ -38,4 +43,9 @@
 
 #copy {
   margin-top: 18px;
+}
+
+#usa {
+  width: 12px;
+  height: 12px;
 }
