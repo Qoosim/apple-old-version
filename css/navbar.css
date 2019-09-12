@@ -8,29 +8,23 @@ body {
   flex-wrap: nowrap;
   justify-content: center;
   align-content: center;
-  box-shadow: 2px 2px 5px #eeeeee50;
+  /* box-shadow: 2px 2px 5px #eeeeee50; */
 }
 
-/* .nav-bar {
-  height: 35px;
-  margin-left: 50px;
-} */
-
 .nav-bar div {
-  /* display: block;
-  float: left; */
   width: 9%;
   height: 35px;
   text-align: center;
   border-left: 1px solid #ffffff50;
   background: linear-gradient(0deg, #868686 0%, #949494 50%, #717171 50%, #8f8f8f 100%);
+  margin-top: 67px;
 }
 
 .nav-bar div a {
   font-size: 14px;
   font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
   font-weight: 500;
-  line-height: 2.9;
+  line-height: 2.7;
   color: #fff;
   text-decoration: none;
 
@@ -45,7 +39,7 @@ body {
 }
 
 #apple-logo {
-  width: 25px;
+  width: 20px;
   margin-top: 5px;
   color: #fff;
 }
@@ -63,7 +57,7 @@ body {
 
 #search-icon {
   margin-right: -25px;
-  margin-top: 11px;
+  margin-top: 5px;
 }
 
 .nav-bar div:hover {

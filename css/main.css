@@ -11,3 +11,31 @@
   background-position: bottom;
   height: 500px;
 }
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+  margin-top: 3px;
+}
+
+.inner-wrapper {
+  width: 364px;
+  height: 200px;
+}
+
+.f-outside {
+  font: 11px 'Lucida Grande', 'Lucida Sans Unicode', Helvetica, Arial, Verdana, sans-serif;
+  color: #666;
+  margin: 25px 20px 100px 20px;
+}
+
+.f-inside {
+  float: right;
+  margin-top: -25px;
+}
+
+#copy {
+  margin-top: 18px;
+}
