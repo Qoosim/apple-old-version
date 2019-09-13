@@ -36,6 +36,11 @@
   color: #0088cc;
   text-decoration: none;
 }
+.usa {
+  float: right;
+  margin-top: -27px;
+  margin-right: -20px;
+}
 
 .f-inside {
   float: right;
