@@ -68,3 +68,13 @@ body {
   text-align: center;
   margin-top: 20px;
 }
+
+#subhead {
+  margin-bottom: 20px;
+}
+
+.film-story {
+  background: url("https://archive.fo/UW4oR/7c09e7d0a510ee61a62275a115208926bbd7002a.png");
+  background-position-x: 50%;
+  height: 35px;
+}
