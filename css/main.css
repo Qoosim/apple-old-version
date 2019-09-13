@@ -13,6 +13,7 @@
 }
 
 .wrapper {
+  width: 100%;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -20,8 +21,8 @@
   margin-top: 3px;
 }
 
-.inner-wrapper {
-  width: 364px;
+.inner-wrapper img {
+  width: 338px;
   height: 200px;
 }
 
@@ -43,9 +44,4 @@
 
 #copy {
   margin-top: 18px;
-}
-
-#usa {
-  width: 12px;
-  height: 12px;
 }
