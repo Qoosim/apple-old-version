@@ -1,6 +1,9 @@
 # apple-old-version
 An Apple web page clone
-By: Qoosim AbdulGhaniyy Adekunle
+
+//**********************************
+// By: Qoosim AbdulGhaniyy Adekunle
+//**********************************
 
 //**************************************************************************
 
