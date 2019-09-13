@@ -1,7 +1,7 @@
 * {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 #container {
@@ -33,9 +33,10 @@
 }
 
 .f-outside a {
-  color: #0088cc;
+  color: #08c;
   text-decoration: none;
 }
+
 .usa {
   float: right;
   margin-top: -27px;

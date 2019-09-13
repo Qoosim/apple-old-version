@@ -8,7 +8,6 @@ body {
   flex-wrap: nowrap;
   justify-content: center;
   align-content: center;
-  /* box-shadow: 2px 2px 5px #eeeeee50; */
 }
 
 .nav-bar div {
@@ -22,12 +21,11 @@ body {
 
 .nav-bar div a {
   font-size: 14px;
-  font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+  font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   font-weight: 500;
   line-height: 2.7;
   color: #fff;
   text-decoration: none;
-
 }
 
 #nav-initial {
@@ -52,7 +50,6 @@ body {
   border-radius: 10px;
   box-shadow: 0 -1px #303030;
   margin-top: 8px;
-
 }
 
 #search-icon {
