@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+}
+
+.nav-bar {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-content: center;
+}
+
+.nav-bar div {
+  width: 9%;
+  height: 35px;
+  text-align: center;
+  border-left: 1px solid #ffffff50;
+  background: linear-gradient(0deg, #868686 0%, #949494 50%, #717171 50%, #8f8f8f 100%);
+  margin-top: 67px;
+}
+
+.nav-bar div a {
+  font-size: 14px;
+  font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  font-weight: 500;
+  line-height: 2.7;
+  color: #fff;
+  text-decoration: none;
+}
+
+#nav-initial {
+  border-radius: 5px 0 0 5px;
+}
+
+#nav-final {
+  border-radius: 0 5px 5px 0;
+}
+
+#apple-logo {
+  width: 20px;
+  margin-top: 5px;
+  color: #fff;
+}
+
+#nav-search {
+  width: 80%;
+  padding: 2px 0;
+  background-color: #50505050;
+  border: 1px solid #00000020;
+  border-radius: 10px;
+  box-shadow: 0 -1px #303030;
+  margin-top: 8px;
+}
+
+#search-icon {
+  margin-right: -25px;
+  margin-top: 5px;
+}
+
+.nav-bar div:hover {
+  background: linear-gradient(0deg, #818181 0%, #898989 50%, #676767 50%, #8a8a8a 100%);
+}
+
+.your-verse {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#subhead {
+  margin-bottom: 20px;
+}
+
+.film-story {
+  background: url("https://archive.fo/UW4oR/7c09e7d0a510ee61a62275a115208926bbd7002a.png");
+  background-position-x: 50%;
+  height: 35px;
+}
